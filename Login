@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body> 
+<div class="">
+  
+</div>
+  <img src="/picture.html/Back Button.jpg" alt="Back Arrow">            <br>
+<br>
+<div class="Container2">
+<img height="150" src="/picture.html/Logo.jpg" alt="Logo"> 
+<h2> STUDENT LOGIN FORM</h2>
+<br />
+<label  class"1"for="Email">Email</label>
+<input type="text" name="Email" id="Email" placeholder="Enter the Email">
+<br />
+<br />
+<label class"2"for="Password">Password</label>
+<input type="text" name="Password" id="Password" placeholder="Enter the Password">
+<br />
+<br>
+<input type="Submit" name="Submit" id="Submit">
+<input type="Reset" name="Reset" id="Reset">
+
+
+
+</body>
+</html>
