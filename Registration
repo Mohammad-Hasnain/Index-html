@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>                <link rel="stylesheet" href="./style.css">
+</head>
+<body>                                   <div class="back button">
+<img  src="/picture.html/Back Button.jpg" alt="Back Arrow">             
+   </a>
+  </div>                                
+  <br>                                 
+  <br>                                 
+  <br>                                 
+  <br>                                  
+  <div class="Container2">
+  <img height="150"  src="/picture.html/Logo.jpg" alt="Logo">      
+  </div>                                 
+  <br>                                 
+  <h2>STUDENT REGISTRATION FORM</h2>   
+  <br>                                 
+  <div Class="Name">
+  <label Class="labe-l" For="First Name">First Name</label>                   
+  <span Class="info">                
+  <input type="text" name="First Name" id="First Name" placeholder="Enter the First Name">{max 30 character a-z and A-Z}                            
+  </span>                         
+  </div>                               
+  <br>                                 
+  <div Class="Last Name">
+ <label class="label-2" for="Last Name">Last Name</label>                
+ <span Class="infoln">              
+ <input type="text" name="Last Name" id="Last Name" placeholder="Enter the Last Name">{max 30 characters a-z and A-Z}                              
+ </span>
+  </div>                               
+  <br>                                 
+  <div Class="Date Of Birth">
+  <label  class="label-3" for="Date of Birth">Date OF Birth</label>        
+  <span Class="infoDB">             
+  <input type="Date" name="Date OF Birth" id="Date OF Birth">             
+  </span>
+  </div>                                <br>                                 
+  <div Class="Email ID">
+    <label Class="label-4" for="Email ID">Email ID</label>                 
+    <span Class="infoED">           
+    <input type="text" name="Email ID" id="Email ID" placeholder="Enter the email Address">               
+    </span>          
+  </div>                               
+  <br>                                 
+  <div Class="Mobile Number">
+    <label  Class="label-5" for="Mobile Number">Mobile Number</label>     
+    <span Class="InfoMn">           
+    <input type="tel" name="Mobile Number" id="Mobile Number" placeholder="Enter the Mobile Number">{10 Digits Number }    
+    </span>
+  </div>                                <br>                                 <div Class="ContainerG">
+    <label  Class="6" for="Gender">Gender
+    </label>                           
+    <div Class="GND">                 
+    <label Class="label-6A" for="Male"
+    >Male</label>                      
+    <span Class="infoMN">           
+    <input type="radio" name="Gender" id
+    ="Male" value="Male">            
+    </span>                           
+    <label  Class=label-6f for="Female"
+    >Female</label>
+    <span Class="infofm">
+  <input type="radio" name="Gender" id="Female" value="Female">
+  </span>
+  </div>
+  </div>                                
+  <br>                                
+  <div Class="Address">
+  <label  Class"7"for="ADDRESS">ADDRESS
+ </label>                           
+ <span Class="InfoAD">              
+ <textarea name="ADDRESS" id="ADDRESS" 
+ cols="25" rows="5"></textarea>     
+ </span>                    
+</div>                                  
+<br>  
+<div Class="City">
+<label  Class"8"for="City">City</label>  <span Class="info city">
+<input type="text" name="City" id="City" placeholder="Enter the City Name">{max 30 characters a-z and A-Z}
+</span>
+</div>
+<br>
+<div class="PIN CODE">
+<label  class"9"for="PIN CODE">PIN CODE</label>  
+<span Class="InfoPN">
+<input type="tel" name="PIN CODE" id="PIN CODE" placeholder="Enter the PIN CODE">{6 Digits Numbers}
+</span>
+</div>
+<br>
+<div class="State">
+<label class"10" for="State">STATE</label>  
+<span class="Infost">                 <input type="text" name="State" id="State" placeholder="Enter the State">{max 30 characters a-z and A-Z}
+</span>
+</div>
+<br>
+<div Class="County">
+<label class="11" for=" County">County</label>  
+<span class="Infoc">
+<input type="text" name="County" id="County" placeholder="Enter the Country Name">
+</span>
+</div>
+<br>
+<div Class="Hobbies">
+<label class="12" for="Hobbies">Hobbies</label>  
+<span Class="infoh">
+<div class="ds">
+ <input type="checkbox" name="Hobbies" id="Singing" value="Singing">Singing 
+<input type="checkbox" name="Dancing" id="Dancing" value="Dancing">Dancing
+<input type="Checkbox" name="Sketching" id="Sketching"value="Sketching">Sketching
+<input type="Checkbox" name="Others" id="Others" value="Others">Others.       <input type="text" name="" id="">
+</div>
+<br>
+<div class="Qualification">
+<label  class"13"for="Qualification">Qualification</label>  
+<div Class="T">
+ <table>
+   <thead>
+     <tr>
+<th>SI.NO.</th>
+  <th>Examination</th>
+    <th>Board</th>
+    <th>Percentage</th>
+    <th>Year of Passing</th>
+     </tr>
+   </thead>
+    </table>
+   <tbody>
+     <tr>
+       <td>1</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><input type="text" name="" id="">
+    <td><input type="text" name="" id="">
+     <td><input type="text" name="" id="">
+     <td><input type="text" name="" id="">
+   </tr>
+   <tr>
+     <td>2</td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   </tr>
+  <tr>
+    <td>3</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   </tr> 
+  <tr>
+    <td>4</td>
+  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   <td><input type="text" name="" id="">
+   </tr>
+  </tbody>
+  </table>
+  </div>
+  </div>
+  <div Class="OUT">
+    (10 char max) &nbsp;&nbsp;upto 2 decimal
+  </div>
+  <br>
+  <label class="Courses" for="Courses">Courses</label>
+  
+</div>  
+<div class="Af">
+</div>
+<label class="select" for="select">select any courses</label>
+<select name="Courses" id="Courses" required>
+  <option value="">BCA</option>
+<option value="">B.A</option>
+<option value="">B.CS</option>
+<option value="">B.COM</option>
+</select>
+</label>
+<br>
+<label class="Applied" for="Applied For">Applied For</label>
+<br>
+<br>
+<label class="u" for="upload your pic">upload your pic</label>
+<label class="IMG"></label>
+<input type="file" name="image" id="image">
+<br>
+<label class="I" for="(only.png .jpg.jpeg formats allow)">(only .png .jpg.jpeg formats allow)</label>
+<br>
+<br>
+<div class="sr">
+<input type="Submit" name="submit" id="submit">&nbsp;  
+<input type="Reset" name="reset" id="reset">
+</div>
+<br>
+<br>
+<br>
+</body>
+</html>
