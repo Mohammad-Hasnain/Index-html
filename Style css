@@ -1,0 +1,104 @@
+*{
+margin:0px;                         
+padding: 0px;                             
+}                                
+.Container{                          
+  display:flex;                          
+  Justify-Content:Center;                 
+  align-items:Center;                   
+}                                        
+a{                                   
+  display:flex;                          
+  justify-content: Center;               
+  font-size:xx-large;                    
+  font-weight:bolder;                    
+  font-family:'Times New Roman',Times, 
+  serif;                                 
+}                             
+.Container2{                        
+  display:flex;                          
+  justify-content: Center ;              
+  align-items: Center                    
+}                                         
+.back button{                           
+position: absolute;                    top: 20px;    
+left: 20px;                             } 
+.Container2{
+ display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+h2{  
+text-align: Center;  
+font-family: 'Times New Roman', Times, serif  
+} 
+/*---------------*/  
+.Name{  
+display: flex;  
+ justify-content: center;
+font-size: 18px; 
+gap:145px  
+}  
+.Name.info {
+gap: 10px  
+}  
+.Name.label-1  {
+margin-left:200px; 
+}                        
+/*-----------/*  
+     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
